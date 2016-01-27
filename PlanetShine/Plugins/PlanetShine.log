@@ -1,14 +1,3 @@
 Executing: PlanetShine - 1.0.5810.23111
 Assembly: /home/lazarus/.steam/steam/steamapps/common/Kerbal Space Program/GameData/PlanetShine/Plugins/PlanetShine.dll
 
-[Log 12:35:23.6174350]: Gui->OnDestroy
-[Log 12:44:04.5118880]: Gui->OnDestroy
-[Log 12:44:10.0750000]: Gui->OnDestroy
-[Log 12:47:14.7173530]: Gui->OnDestroy
-[Log 12:55:42.0463910]: Gui->OnDestroy
-[Log 13:00:59.7753580]: Gui->OnDestroy
-[Log 13:08:17.9965360]: Gui->OnDestroy
-[Log 13:13:52.2203800]: Gui->OnDestroy
-[Log 13:15:57.4873360]: Gui->OnDestroy
-[Log 13:19:00.0287560]: Gui->OnDestroy
-[Log 13:30:03.7426020]: Gui->OnDestroy
